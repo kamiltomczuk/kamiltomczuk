@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio as Front-end Dev<br>🌱 I’m currently learning JavaScript and React<br>🤔 I’m looking for help with React<br>📫 How to reach me: @iamtomchan
+🔭 I’m currently working on my portfolio as Front-end Dev<br>🌱 I’m currently learning JavaScript and React<br>🤔 I’m looking for help with React<br>📫 How to reach me: linkedin.com/in/kamil-tomczuk-080b7a239/
 
 
 ## 🌐 Socials:
