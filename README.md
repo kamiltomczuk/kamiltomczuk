@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio as Front-end Dev<br>>📫 How to reach me: [linkedin.com/in/kamil-tomczuk/](https://www.linkedin.com/in/kamil-tomczuk/)  or https://professorkt.vercel.app/
+🔭 I'm a dedicated Web Developer with expertise in JavaScript, TypeScript, React and PHP. I create visually appealing and functional websites, focusing on responsive design and user experience. Constantly updating my skills, I aim to deliver innovative solutions that exceed client expectations.<br>>📫 How to reach me: [linkedin.com/in/kamil-tomczuk/](https://www.linkedin.com/in/kamil-tomczuk/)  or https://professorkt.vercel.app/
 
 
 ## 🌐 Socials:
