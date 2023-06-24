@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio as Front-end Dev<br>>📫 How to reach me: linkedin.com/in/kamil-tomczuk/  or https://professorkt.vercel.app/
+🔭 I’m currently working on my portfolio as Front-end Dev<br>>📫 How to reach me: [linkedin.com/in/kamil-tomczuk/](https://www.linkedin.com/in/kamil-tomczuk/)  or https://professorkt.vercel.app/
 
 
 ## 🌐 Socials:
