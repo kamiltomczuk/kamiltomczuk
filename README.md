@@ -1,12 +1,10 @@
-<p align="left">🔭 I'm a dedicated Web Developer with expertise in JavaScript, TypeScript, React and PHP. I create visually appealing and functional websites, focusing on responsive design and user experience. Constantly updating my skills, I aim to deliver innovative solutions that exceed client expectations.<br>>📫 How to reach me: linkedin.com/in/kamil-tomczuk/ or https://professorkt.vercel.app/</p>
+# 💫 About Me:
+🔭 I'm a dedicated Web Developer with expertise in JavaScript, TypeScript, React and PHP. I create visually appealing and functional websites, focusing on responsive design and user experience. Constantly updating my skills, I aim to deliver innovative solutions that exceed client expectations.<br>>📫 How to reach me: [linkedin.com/in/kamil-tomczuk/](https://www.linkedin.com/in/kamil-tomczuk/)  or https://professorkt.vercel.app/
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamiltomczuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamiltomczuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/professorKT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamtomchan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-tomczuk-080b7a239) 
+# 💻 Tech Stack:
 ###
 
 <div align="left">
@@ -56,17 +54,11 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/kamiltomczuk/kamiltomczuk/blob/output/github-contribution-grid-snake.gif)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kamiltomczuk/count.svg?"  />
-</div>
-
-###
-
-
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kamiltomczuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamiltomczuk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamiltomczuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=s24802&icon=0&color=8)](https://visitcount.itsvg.in)
