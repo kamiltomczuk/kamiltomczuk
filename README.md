@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kamiltomczuk/kamiltomczuk/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
@@ -67,10 +67,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/	tigerofpanther">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
